@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="home">Home</string>
+    <string name="menu">Menu</string>
+    <string name="movies">Movies</string>
+    <string name="celebs">Celebs</string>
+    <string name="logo">logo</string>
+    <string name="search_for_movies_actors">search for movies, actors,....</string>
+    <string name="search">Search</string>
+    <string name="hello_world">Hello world</string>
+</resources>
